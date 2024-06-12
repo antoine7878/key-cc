@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/dactyl.dir/dactyl.cc.o CMakeFiles/dactyl.dir/key_data.cc.o -o dactyl  lib/libglm_static.a lib/libutil.a

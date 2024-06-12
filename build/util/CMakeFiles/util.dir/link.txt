@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libutil.a CMakeFiles/util.dir/key.cc.o CMakeFiles/util.dir/scad.cc.o CMakeFiles/util.dir/transform.cc.o
+/usr/bin/ranlib ../lib/libutil.a
